@@ -1,0 +1,9 @@
+{
+  "recover": "/ recover",
+  "forgotPwd": "Forgot Password",
+  "restorePwd": "Restore password",
+  "emailValid": "Please Insert Correct Email Address!",
+  "submit": "Submit your email to get a link for password recovery.",
+  "send": "Send me the link",
+  "emailPlaceholder": "Your email address"
+}

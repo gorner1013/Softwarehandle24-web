@@ -1,0 +1,22 @@
+{
+  "account": "account",
+  "orders": "Orders",
+  "back": "Back",
+  "info": "Order Information",
+  "number": "Order Number",
+  "date": "Order Date :",
+  "history": "Order History :",
+  "paymentMethod": "Payment method:",
+  "$paid":{
+    "title":"Your order",
+    "payState":"has been paid",
+    "description":"You can now check the status of the order in your account. Thank you!",
+    "backBtn":"Back to homepage"
+  },
+  "$unpaid":{
+    "title":"Your order",
+    "payState":"is not paid",
+    "description":"Unfortunately, your order couldn't be paid. You can try to pay it again or contact us.",
+    "checkBtn":"Check the order details"
+  }
+}

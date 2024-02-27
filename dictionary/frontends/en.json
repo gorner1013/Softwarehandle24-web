@@ -1,0 +1,9 @@
+{
+  "currency": "Currency:",
+  "defaultPaymentMethod": "Default payment method:",
+  "isLoggedIn": "Is customer logged in:",
+  "$shared":{
+    "country":"Country",
+    "state":"State"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "currency": "Währung:",
+  "defaultPaymentMethod": "Standard-Zahlungsmethode:",
+  "isLoggedIn": "Ist der Kunde eingeloggt:",
+  "$shared": {
+    "country": "Land",
+    "state": "Bundesland"
+  }
+}

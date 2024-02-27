@@ -1,0 +1,92 @@
+{
+  "$address":{
+    "title":"Address",
+    "default":"DEFAULT BILLING / DELIVERY ADDRESS",
+    "edit":"Edit",
+    "add":"Add New Address"
+  },
+  "$addressEdit":{
+    "title":"Address",
+    "editAddress":"Edit Address",
+    "privateClient":"Private client",
+    "company":"Company",
+    "salutation":"Salutation",
+    "placeholder":{
+      "firstName":"First Name",
+      "lastName":"Last Name",
+      "companyName":"Company Name",
+      "vatId":"VAT ID",
+      "streetNum":"Street number",
+      "postal":"Postal",
+      "additionalAddress":"Additional address line 1",
+      "city":"City",
+      "phone":"Phone"
+    },
+    "notice":"This is a field of duty.",
+    "save":"Save Address",
+    "deliveryAddress":"Use as standard delivery address",
+    "billingAddress":"Use as default billing address"
+  },
+  "$account":{
+    "overview":"Overview",
+    "welcome":"WELCOME",
+    "description":"This is your dashboard account, where you have the opportunity to view your last account activity.",
+    "personalData":"PERSONAL DATA",
+    "changePersonal":"Change personal information",
+    "paymentMethod":"PAYMENT METHOD",
+    "changePayment":"Change payment method",
+    "invoiceAddress":"INVOICE ADDRESS",
+    "changeAddress":"Change delivery address",
+    "setting":"YOUR NEWSLETTER SETTINGS",
+    "settingDescription":"Yeah, I’d like to get the free software shop Softwarehandle24 licenses online to by newsletters. You can sign back in anytime!"
+  },
+  "$orders":{
+    "title":"Orders",
+    "number":"Order number",
+    "date":"Order Date",
+    "articles":"Articles",
+    "total":"Total",
+    "amount":"amount",
+    "status":"Order Status",
+    "viewMore":"View More",
+    "less":"Less"
+  },
+  "$payment":{
+    "title":"Payment",
+    "preferred":"PREFERRED PAYMENT",
+    "payByPaypal":"Pay by Paypal - simple, fast and safe.",
+    "securePayment":"Secure payment processing by stripping",
+    "bankTransfer":"Bank transfer",
+    "notice":"The order will be sent after payment.",
+    "toKlarna":"Immediate transfer to Klarna",
+    "conveniently":"As a company, you can pay easily and conveniently on the bill",
+    "save":"Save Changes"
+  },
+  "$profile":{
+    "title":"Personal data",
+    "fieldMarked":"Fields marked",
+    "mandatory":"are mandatory.",
+    "save":"Save changes",
+    "name":{
+      "title":"NAME",
+      "salutation":"Salutation",
+      "firstName":"First Name",
+      "lastName":"Last Name"      
+    },
+    "email":{
+      "title":"E-MAIL ADDRESS",
+      "emailValid":"Please Insert Correct Email Address!",
+      "newAddress":"New e-mail address",
+      "confirmAddress":"Confirm e-mail address",
+      "confirmEmailMatch":"Email Doesn't Match!",
+      "currentPwd":"Your current password"
+    },
+    "password":{
+      "title":"PASSWORD",
+      "newPwd":"New password",
+      "confirmPwd":"Confirm password",
+      "newPasswordMatch":"Password Doesn't Match!",
+      "currentPwd":"Your current password"
+    }
+  }
+}

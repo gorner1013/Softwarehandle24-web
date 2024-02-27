@@ -1,0 +1,36 @@
+{
+  "$detail": {
+    "reviews": "reviews",
+    "descriptionTab": "Description",
+    "reviewTab": {
+      "title": "Reviews",
+      "blabla": "Blabla",
+      "less": "Less",
+      "showMore": "Show More",
+      "subTitle": "Write a review",
+      "description": "Reviews will be released after verification.",
+      "veryGood": "very good",
+      "veryBad": "very bad",
+      "titlePlaceholder":"Title",
+      "descriptionPlaceholder":"Description",
+      "fieldMarked":"The fields marked with a",
+      "mandatory":"are mandatory.",
+      "haveRead": "I have read the",
+      "privacyPolicy": "privacy policy.",
+      "save": "Save"
+    },
+    "dispatch":{
+      "included": "VAT included.",
+      "description": "Immediately ready for dispatch, delivery time 24 hours",
+      "addCart": "Add to cart",
+      "articleNumber": "Article no:",
+      "manufacturerName": "Manufacturer Name:",
+      "manufacturerNumber": "Manufacturer number:"
+    }
+  },
+  "$listing": {
+    "discount":"5% discount",
+    "description":"Get a 5% discount on your next purchase with the following coupon code: 43F91",
+    "page":"Page"
+  }
+}

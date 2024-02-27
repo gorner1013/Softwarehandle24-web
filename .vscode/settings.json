@@ -1,0 +1,5 @@
+{
+  "editor.inlineSuggest.showToolbar": "onHover",
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "unot.switchMagic": false
+}

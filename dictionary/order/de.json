@@ -1,0 +1,22 @@
+{
+  "account": "Konto",
+  "orders": "Bestellungen",
+  "back": "Zurück",
+  "info": "Bestellinformation",
+  "number": "Bestellnummer",
+  "date": "Bestelldatum:",
+  "history": "Bestellhistorie:",
+  "paymentMethod": "Zahlungsmethode:",
+  "$paid": {
+    "title": "Ihre Bestellung",
+    "payState": "wurde bezahlt",
+    "description": "Sie können jetzt den Status der Bestellung in Ihrem Konto überprüfen. Vielen Dank!",
+    "backBtn": "Zurück zur Startseite"
+  },
+  "$unpaid": {
+    "title": "Ihre Bestellung",
+    "payState": "ist nicht bezahlt",
+    "description": "Leider konnte Ihre Bestellung nicht bezahlt werden. Sie können versuchen, erneut zu bezahlen, oder kontaktieren Sie uns.",
+    "checkBtn": "Bestelldetails überprüfen"
+  }
+}

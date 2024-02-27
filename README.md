@@ -1,0 +1,1 @@
+# SoftwareHandel24 Frontend

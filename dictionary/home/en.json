@@ -1,0 +1,53 @@
+{
+  "title1": "Our Windows Server offers",
+  "description1": "The optimal cloud optimization for your company",
+  "showMore": "View Windows Server",
+  "title2": "WINDOWS SERVER 2022 - THE NEW SERVER PLATFORM",
+  "description2": "The optimal cloud optimization",
+  "$cards": {
+    "one": {
+      "title": "Volume license",
+      "content": "What is a volume license?"
+    },
+    "two": {
+      "title": "Legal situation",
+      "content": "An author of software cannot oppose the resale of his 'used' licences."
+    },
+    "three": {
+      "title": "Helpdesk",
+      "content": "Need help?"
+    }
+  },
+  "$intro": {
+    "title": "SOFTWAREHANDEL24.COM - Your partner for Microsoft Office products",
+    "contentOne": "For several years Softwarehandel24.com has been a trustworthy and reliable partner for all your needs when it comes to Office products. We provide everything from Office 2007 to 2013 for your Windows-based  systems as well as for your Macintosh.",
+    "contentTwo": "Our shopping system is well structured and easy to handle to make your purchase as comfortable as  possible! Customer service is our highest priority – we always strive  to make your experience here the best you ever had so we take great concern in our customers and a reliable and fast delivery. After  purchasing a product you have the option of downloading it for your immediate use.",
+    "lessContentTwo": "Our shopping system is well structured and easy to handle to make your purchase as comfortable as possible! Customer service is our highest priority...",
+    "benefit": {
+      "title": "Take benefit from Microsoft volume license",
+      "content": "Volume licenses are typically used in business sales. Large firms buy those volume license keys which can be used for multiple installations on different systems. However, not all companies need 100% of their given volume so they sell it under favorable conditions. This is where you can take benefit. We specialize in offering volume keys and give you the chance of buying fully valid Office products such as Microsoft Office 2013 under the best conditions!"
+    },
+    "continueReading": "Continue reading"
+  },
+  "softwareIntro": "SOFTWAREHANDEL24.COM - Your partner for Microsoft Office products",
+  "$advantage": {
+    "title": "Advantages of shopping at Softwarehandel24.de",
+    "content": {
+      "one": "24h express shipping",
+      "two": "Software in 20+ languages",
+      "three": "Buy on account",
+      "four": "Phone order",
+      "five": "Free Support",
+      "six": "All payment methods available"
+    }
+  },
+  "recommentdation": "Our Bestseller",
+  "$topCategories": {
+    "title": "Our top categories",
+    "microsoft": "Microsoft",
+    "windowServer": "Windows Server",
+    "officeSuite": "Office Suite",
+    "visualStudio": "Visual Studio",
+    "showNow": "Discover now"
+  }
+}

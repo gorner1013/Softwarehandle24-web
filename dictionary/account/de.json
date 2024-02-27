@@ -1,0 +1,92 @@
+{
+  "$address": {
+    "title": "Adresse",
+    "default": "STANDARDRECHNUNGS- / LIEFERADRESSE",
+    "edit": "Bearbeiten",
+    "add": "Neue Adresse hinzufügen"
+  },
+  "$addressEdit": {
+    "title": "Adresse",
+    "editAddress": "Adresse bearbeiten",
+    "privateClient": "Privatkunde",
+    "company": "Firma",
+    "salutation": "Anrede",
+    "placeholder": {
+      "firstName": "Vorname",
+      "lastName": "Nachname",
+      "companyName": "Firmenname",
+      "vatId": "USt-IdNr.",
+      "streetNum": "Straßennummer",
+      "postal": "Postleitzahl",
+      "additionalAddress": "Zusätzliche Adresszeile 1",
+      "city": "Stadt",
+      "phone": "Telefon"
+    },
+    "notice": "Dies ist ein Pflichtfeld.",
+    "save": "Adresse speichern",
+    "deliveryAddress": "Als Standardlieferadresse verwenden",
+    "billingAddress": "Als Standardrechnungsadresse verwenden"
+  },
+  "$account": {
+    "overview": "Übersicht",
+    "welcome": "WILLKOMMEN",
+    "description": "Dies ist Ihr Dashboard-Konto, auf dem Sie Ihre letzten Kontotätigkeiten anzeigen können.",
+    "personalData": "PERSÖNLICHE DATEN",
+    "changePersonal": "Persönliche Informationen ändern",
+    "paymentMethod": "Zahlungsmethode",
+    "changePayment": "Zahlungsmethode ändern",
+    "invoiceAddress": "RECHNUNGSADRESSE",
+    "changeAddress": "Lieferadresse ändern",
+    "setting": "IHRE NEWSLETTER-EINSTELLUNGEN",
+    "settingDescription": "Ja, ich möchte die kostenlosen Softwarelizenzen des Softwarehandle24-Shops online per Newsletter erhalten. Sie können sich jederzeit abmelden!"
+  },
+  "$orders": {
+    "title": "Bestellungen",
+    "number": "Bestellnummer",
+    "date": "Bestelldatum",
+    "articles": "Artikel",
+    "total": "Gesamt",
+    "amount": "Menge",
+    "status": "Bestellstatus",
+    "viewMore": "Mehr anzeigen",
+    "less": "Weniger"
+  },
+  "$payment": {
+    "title": "Zahlung",
+    "preferred": "BEVORZUGTE ZAHLUNG",
+    "payByPaypal": "Mit Paypal bezahlen - einfach, schnell und sicher.",
+    "securePayment": "Sichere Zahlungsabwicklung durch Strippen",
+    "bankTransfer": "Banküberweisung",
+    "notice": "Die Bestellung wird nach Zahlung versendet.",
+    "toKlarna": "Direktüberweisung an Klarna",
+    "conveniently": "Als Firma können Sie bequem auf Rechnung bezahlen",
+    "save": "Änderungen speichern"
+  },
+  "$profile": {
+    "title": "Persönliche Daten",
+    "fieldMarked": "Felder, die",
+    "mandatory": "obligatorisch sind.",
+    "save": "Änderungen speichern",
+    "name": {
+      "title": "NAME",
+      "salutation": "Anrede",
+      "firstName": "Vorname",
+      "lastName": "Nachname"
+    },
+    "email": {
+      "title": "E-MAIL ADRESSE",
+      "emailValid": "Bitte geben Sie eine korrekte E-Mail-Adresse ein!",
+      "newAddress": "Neue E-Mail-Adresse",
+      "confirmAddress": "E-Mail-Adresse bestätigen",
+      "confirmEmailMatch": "E-Mail stimmt nicht überein!",
+      "currentPwd": "Ihr aktuelles Passwort"
+    },
+    "password": {
+      "title": "PASSWORT",
+      "newPwd": "Neues Passwort",
+      "confirmPwd": "Passwort bestätigen",
+      "newPasswordMatch": "Passwort stimmt nicht überein!",
+      "currentPwd": "Ihr aktuelles Passwort"
+    }
+  }
+}

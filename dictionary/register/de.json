@@ -1,0 +1,41 @@
+{
+  "register": "Registrieren",
+  "$login": {
+    "question": "Sie haben bereits ein Konto?",
+    "loginHere": "Hier anmelden!"
+  },
+  "$createAccount": {
+    "title": "Konto erstellen",
+    "privateClient": "Privatkunde",
+    "company": "Unternehmen",
+    "placeholder": {
+      "firstName": "Vorname",
+      "lastName": "Nachname",
+      "email": "Ihre E-Mail-Adresse",
+      "pwd": "Passwort",
+      "confirmPwd": "Passwort bestätigen",
+      "streetAddress": "Straße und Hausnummer",
+      "additionalAddress": "Adresszusatz",
+      "code": "Postleitzahl",
+      "city": "Stadt"
+    },
+    "salutation": "Anrede",
+    "emailValid": "Bitte geben Sie eine korrekte E-Mail-Adresse ein!",
+    "pwdMatch": "Passwort stimmt nicht überein!",
+    "pwdLength": "Ihr Passwort muss mindestens 8 Zeichen lang sein.",
+    "pwdLetter": "Groß- und Kleinschreibung beachten.",
+    "fieldMarked": "Die mit einem",
+    "mandatory": "markierten Felder sind obligatorisch.",
+    "haveRead": "Ich habe die",
+    "privacyPolicy": "Datenschutzerklärung"
+  },
+  "$customerBenefits": {
+    "title": "Unsere Kundenvorteile",
+    "content": {
+      "one": "Schnelles Einkaufen",
+      "two": "Speichern Sie Ihre Benutzerdaten und Einstellungen",
+      "three": "Übersicht Ihrer Bestellungen",
+      "four": "Verwalten Sie Ihr Newsletter-Abonnement"
+    }
+  }
+}

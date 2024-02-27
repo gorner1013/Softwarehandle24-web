@@ -1,0 +1,9 @@
+{
+  "recover": "/ Wiederherstellen",
+  "forgotPwd": "Passwort vergessen",
+  "restorePwd": "Passwort wiederherstellen",
+  "emailValid": "Bitte geben Sie eine korrekte E-Mail-Adresse ein!",
+  "submit": "Geben Sie Ihre E-Mail-Adresse ein, um einen Link zur Wiederherstellung Ihres Passworts zu erhalten.",
+  "send": "Senden Sie mir den Link",
+  "emailPlaceholder": "Ihre E-Mail-Adresse"
+}

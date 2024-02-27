@@ -1,0 +1,12 @@
+{
+  "login": "Anmeldung",
+  "welcome": "Willkommen zurück!",
+  "emailPlaceholder": "Ihre E-Mail-Adresse",
+  "pwdPlaceholder": "Passwort",
+  "correctEmail": "Bitte geben Sie eine korrekte E-Mail-Adresse ein!",
+  "forgotPwd": "Passwort vergessen?",
+  "$createAccount": {
+    "question": "Sie haben noch kein Konto?",
+    "register": "Hier registrieren"
+  }
+}

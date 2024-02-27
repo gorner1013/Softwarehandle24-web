@@ -1,0 +1,53 @@
+{
+  "title1": "Unsere Windows Server Angebote",
+  "description1": "Die optimale Cloud-Optimierung für Ihr Unternehmen",
+  "showMore": "Windows Server anzeigen",
+  "title2": "WINDOWS SERVER 2022 - DIE NEUE SERVERPLATTFORM",
+  "description2": "Die optimale Cloud-Optimierung",
+  "$cards": {
+    "one": {
+      "title": "Volumenlizenz",
+      "content": "Was ist eine Volumenlizenz?"
+    },
+    "two": {
+      "title": "Rechtslage",
+      "content": "Ein Software-Autor kann dem Weiterverkauf seiner 'genutzten' Lizenzen nicht widersprechen."
+    },
+    "three": {
+      "title": "Beratungsstelle",
+      "content": "Brauchen Sie Hilfe?"
+    }
+  },
+  "$intro": {
+    "title": "Ihr Partner für Microsoft Office-Produkte",
+    "contentOne": "Softwarehandel24.com ist seit mehreren Jahren ein vertrauenswürdiger und zuverlässiger Partner für alle Ihre Bedürfnisse rund um Office-Produkte. Wir bieten alles von Office 2007 bis 2013 für Ihre Windows-basierten Systeme sowie für Ihren Macintosh.",
+    "contentTwo": "Unser Einkaufssystem ist gut strukturiert und einfach zu bedienen, um Ihren Einkauf so komfortabel wie möglich zu gestalten! Der Kundenservice hat für uns höchste Priorität – wir sind stets bestrebt, Ihr Erlebnis hier so angenehm wie möglich zu gestalten, deshalb legen wir großen Wert auf unsere Kunden und eine zuverlässige und schnelle Lieferung. Nach dem Kauf eines Produkts haben Sie die Möglichkeit, es zur sofortigen Nutzung herunterzuladen.",
+    "lessContentTwo": "Unser Einkaufssystem ist gut strukturiert und einfach zu bedienen, um Ihren Einkauf so komfortabel wie möglich zu gestalten! Kundenservice hat für uns höchste Priorität...",
+    "benefit": {
+      "title": "Profitieren Sie von der Microsoft-Volumenlizenz",
+      "content": "Volumenlizenzen werden typischerweise im Geschäftsvertrieb eingesetzt. Große Firmen kaufen solche Volumenlizenzschlüssel, die für mehrere Installationen auf verschiedenen Systemen verwendet werden können. Allerdings benötigen nicht alle Unternehmen 100 % ihres vorgegebenen Volumens und verkaufen es daher zu günstigen Konditionen. Hier können Sie profitieren. Wir haben uns auf die Bereitstellung von Volumenschlüsseln spezialisiert und bieten Ihnen die Chance, vollwertige Office-Produkte wie Microsoft Office 2013 zu besten Konditionen zu erwerben!"
+    },
+    "continueReading": "Weiterlesen"
+  },
+  "softwareIntro": "SOFTWAREHANDEL24.COM – Ihr Partner für Microsoft Office-Produkte",
+  "$advantage": {
+    "title": "Vorteile beim Einkauf bei Softwarehandel24.de",
+    "content": {
+      "one": "24h Expressversand",
+      "two": "Software in 20+ Sprachen",
+      "three": "Kaufen An Konto",
+      "four": "Telefon Befehl",
+      "five": "Frei Support",
+      "six": "Alle Zahlungsarten verfügbar"
+    }
+  },
+  "recommentdation": "Unsere Bestseller",
+  "$topCategories": {
+    "title": "Unsere Top Kategorien",
+    "microsoft": "Microsoft",
+    "windowServer": "Windows Server",
+    "officeSuite": "Office Suite",
+    "visualStudio": "Visual Studio",
+    "showNow": "Jetzt entdecken"
+  }
+}

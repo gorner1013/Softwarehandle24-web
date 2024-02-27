@@ -1,0 +1,12 @@
+{
+  "login": "Login",
+  "welcome": "Welcome back!",
+  "emailPlaceholder": "Your email address",
+  "pwdPlaceholder": "Password",
+  "correctEmail": "Please Insert Correct Email Address!",
+  "forgotPwd": "Forgot your password?",
+  "$createAccount": {
+    "question": "Don't have an Account?",
+    "register": "Resigter here"
+  }
+}

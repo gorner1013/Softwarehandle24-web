@@ -1,0 +1,130 @@
+{
+  "title": "Checkout",
+  "customerData": "Customer data",
+  "paymentMethod": "Payment method",
+  "finalizeOrder": "Finalize order",
+  "summary": "Summary",
+  "subTotal": "Sub Total:",
+  "shipping": "shipping:",
+  "totalVAT": "Total excluding VAT.:",
+  "plus": "plus",
+  "vat": "VAT",
+  "total": "Total:",
+  "$cards": {
+    "one": {
+      "title": "I ALREADY HAVE AN ACCOUNT",
+      "subTitle": "Welcome back!",
+      "email": "Your email address",
+      "emailValid": "Please Insert Correct Email Address!",
+      "pwd": "Password",
+      "forgotPwd": "Forgot your password?",
+      "btn": "Login"
+    },
+    "two": {
+      "title": "I AM A NEW CUSTOMER",
+      "contentOne": "Fast shopping",
+      "contentTwo": "Save your user data and settings",
+      "contentThree": "Overview of your orders",
+      "contentFour": "Manage your newsletter subscription",
+      "btn":"Order as a new customer"
+    },
+    "three": {
+      "title": "ORDER AS GUEST",
+      "description": "The fast way to your order without a customer account",
+      "btn":"Order as guest"
+    }
+  },
+  "$guest": {
+    "title": "Guest",
+    "subTitle": "I AM A GUEST"
+  },
+  "$newCustom": {
+    "title": "New Customer",
+    "subTitle": "Create Account"
+  },
+  "$order": {
+    "title": "Order",
+    "article": "Article",
+    "amount": "Amount",
+    "unitPrice": "Unit price",
+    "totalPrice": "Total price",
+    "itemNumber": "Item No.",
+    "unit": "Unit",
+    "total": "Total",
+    "itemNumPlaceholder": "Enter item number",
+    "sectionOne":{
+      "title": "ACCOUNT AND DELIVERY ADDRESS",
+      "deliveryAddress": "Delivery address",
+      "intro": "You can download the software right after you buy it. You will receive the product key immediatly by e-mail.",
+      "btn": "Change address"
+    },
+    "sectionTwo":{
+      "title": "PAYMENT AND DELIVERY",
+      "typePayment": "Type of advance payment GG",
+      "shipping": "Shipping Standard Shipping",
+      "btn": "Change payment and shipping"
+    },
+    "sectionThree":{
+      "title": "AGB AND RECOGNIZATION",
+      "note": "Please note our",
+      "recall": "recall lecture",
+      "whenOrder": "when you order.",
+      "haveRead": "I’v read the",
+      "agb": "AGB",
+      "agree": "of your shop and I agree with their application"
+    },
+    "btn": "Order now"
+  },
+  "$payment":{
+    "title":"Payment",
+    "chooseMethod":"CHOOSE PAYMENT METHOD",
+    "secure":"Secure payment processing by stripping",
+    "cardHolder":"Cardholder",
+    "cardNumber":"Card number",
+    "validPeriod":"Valid until (month/year)",
+    "period":"MM/YY",
+    "cvc":"CVC",
+    "checkDigit":"check digit",
+    "payByPaypal":"Pay by Paypal - simple, fast and safe.",
+    "bankTransfer":"Bank transfer",
+    "notice":"The order will be sent after payment.",
+    "toKlarna":"Immediate transfer to Klarna",
+    "conveniently":"As a company, you can pay easily and conveniently on the bill",
+    "standardShipping":"Standard shipping.",
+    "continue":"Continue"
+  },
+  "$create":{
+    "privateClient": "Private client",
+    "company": "Company",
+    "salutation": "Salutation",
+    "firstName":"First Name",
+    "lastName":"Last Name",
+    "email": "Your email address",
+    "emailValid": "Please Insert Correct Email Address!",
+    "createAccount": "Create a customer account",
+    "pwd": "Password",
+    "confirmPwd": "Confirm password",
+    "passwordMatch": "Password Doesn't Match!",
+    "pwdLength": "Your password must contain at least 8 characters.",
+    "pwdLetter": "Consider upper and lower case letters.",
+    "streetAddress":"Street Address",
+    "streetNum":"Street number",
+    "postal":"Postal Code",
+    "additionalAddress":"Additional address line1",
+    "city":"City",
+    "phone":"Phone",
+    "fieldMarked":"The fields marked with a",
+    "mandatory":"are mandatory.",
+    "haveRead":"I have read the",
+    "privacyPolicy":"privacy policy",
+    "orderAsGuest":"Order as guest",
+    "orderAsCustomer":"Order as a new customer",
+    "benefits":{
+      "title":"Our customers benefits",
+      "one":"Fast shopping",
+      "two":"Save your user data and settings",
+      "three":"Overview of your orders",
+      "four":"Manage your newsletter subscription"
+    }
+  }
+}

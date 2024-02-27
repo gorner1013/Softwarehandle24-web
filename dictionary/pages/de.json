@@ -1,0 +1,36 @@
+{
+  "$detail": {
+    "reviews": "Bewertungen",
+    "descriptionTab": "Beschreibung",
+    "reviewTab": {
+      "title": "Bewertungen",
+      "blabla": "Blabla",
+      "less": "Weniger",
+      "showMore": "Mehr anzeigen",
+      "subTitle": "Eine Bewertung schreiben",
+      "description": "Bewertungen werden nach Überprüfung veröffentlicht.",
+      "veryGood": "sehr gut",
+      "veryBad": "sehr schlecht",
+      "titlePlaceholder":"Title",
+      "descriptionPlaceholder":"Description",
+      "fieldMarked": "Die mit einem",
+      "mandatory": "markierten Felder sind obligatorisch.",
+      "haveRead": "Ich habe die",
+      "privacyPolicy": "Datenschutzerklärung",
+      "save": "Speichern"
+    },
+    "dispatch": {
+      "included": "inkl. MwSt.",
+      "description": "Sofort versandfertig, Lieferzeit 24 Stunden",
+      "addCart": "In den Warenkorb legen",
+      "articleNumber": "Artikelnummer:",
+      "manufacturerName": "Herstellername:",
+      "manufacturerNumber": "Herstellernummer:"
+    }
+  },
+  "$listing": {
+    "discount": "5% Rabatt",
+    "description": "Erhalten Sie einen 5% Rabatt auf Ihren nächsten Einkauf mit dem folgenden Gutscheincode: 43F91",
+    "page": "Seite"
+  }
+}

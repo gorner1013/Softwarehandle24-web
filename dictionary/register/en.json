@@ -1,0 +1,41 @@
+{
+  "register": "Register",
+  "$login": {
+    "question": "Already have an account?",
+    "loginHere": "Login here!"
+  },
+  "$createAccount": {
+    "title": "Create Account",
+    "privateClient": "Private client",
+    "company": "Company",
+    "placeholder":{
+      "firstName":"First Name",
+      "lastName":"Last Name",
+      "email":"Your email address",
+      "pwd":"Password",
+      "confirmPwd":"Confirm password",
+      "streetAddress":"Street Address",
+      "additionalAddress":"Additional address line 1",
+      "code":"Postal Code",
+      "city":"City"
+    },
+    "salutation": "Salutation",
+    "emailValid": "Please Insert Correct Email Address!",
+    "pwdMatch": "Password Doesn't Match!",
+    "pwdLength": "Your password must contain at least 8 characters.",
+    "pwdLetter": "Consider upper and lower case letters.",
+    "fieldMarked":"The fields marked with a",
+    "mandatory":"are mandatory.",
+    "haveRead": "I have read the",
+    "privacyPolicy": "privacy policy"    
+  },
+  "$customerBenefits": {
+    "title":"Our customers benefits",
+    "content": {
+      "one":"Fast shopping",
+      "two":"Save your user data and settings",
+      "three":"Overview of your orders",
+      "four":"Manage your newsletter subscription"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "$header": {
+    "phone": "0800 - 60 30 22 0",
+    "mail_to": "support@softwarehandel24.de",
+    "checkout": "To checkout",
+    "hello": "Hallo",
+    "account": "Ihr Konto",
+    "register": "Registrieren",
+    "login": "Anmeldung",
+    "items": "Artikel",
+    "overview": "Überblick",
+    "personalData": "Persönliche Daten",
+    "address": "Adresse",
+    "paymentMethods": "Zahlungsarten",
+    "orders": "Aufträge",
+    "signout": "Abmelden",
+    "shoppingCart": "Einkaufswagen"
+  },
+  "$footer": {
+    "email": "info@softwarehandel24.de",
+    "phone": "+123 456 789 226",
+    "contactForm": "Kontakt Formular",
+    "contact": "Kontakt",
+    "paymentMethods": "ZAHLUNGSARTEN",
+    "informations": "Informationen",
+    "aboutUs": "Über uns",
+    "situation": "Rechtslage",
+    "license": "Volumenlizenz",
+    "conditions": "Nutzungsbedingungen",
+    "legalNotice": "Impressum",
+    "content": "Inhalt",
+    "shippingAndReturns": "Versand & Kehrt zurück",
+    "privacyNotice": "Datenschutzerklärung",
+    "rescission": "Widerrufsrecht",
+    "references": "Verweise",
+    "sellLicenses": "Verkaufen Sie Volumenlizenzen",
+    "copyright": "© Urheberrecht liegt bei softwarehandel24",
+    "allRight": "Alle Rechte vorbehalten"
+  },
+  "layoutSearch": "Produkte suchen...",
+  "incl": "incl",
+  "vat": "MwSt"
+}
